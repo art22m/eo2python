@@ -1,0 +1,5 @@
+[] > app
+  QQ.io.stdout > @
+    QQ.txt.sprintf
+      "Hello, %s!"
+      "Jeffrey"
